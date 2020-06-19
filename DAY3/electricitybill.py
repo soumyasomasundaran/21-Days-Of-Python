@@ -1,3 +1,4 @@
+#Program to find the electricity bill of a customer
 units=int(input("Enter the units consumed in a month"))
 if(units<=50):
     amount=units*.50
