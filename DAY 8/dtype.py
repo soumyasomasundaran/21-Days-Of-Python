@@ -1,3 +1,5 @@
-c1=5+6j
-c2=5+8j
-print(c1*c2)
+a = float(10)
+b = int(5.4)
+print(a, type(a))
+print(b, type(b))
+
