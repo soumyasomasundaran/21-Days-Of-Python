@@ -1,6 +1,7 @@
-# Write a Python program to construct the following pattern, using a nested for loop.
-  Sample input :
-  Enter the number of lines: 5
+# Write a Python program to construct the following patterns, using a nested forloop.
+
+##  Sample input :
+`Enter the number of lines: 5`
 
 Pattern 1
 
