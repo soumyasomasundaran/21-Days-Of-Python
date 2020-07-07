@@ -4,13 +4,14 @@
 
 Pattern 1
 
+![pattern 1](pattern1.png)
 
 
 Pattern 2
 
+![pattern 2](pattern2.png)
 
-![](@.png)
 
 Pattern 3
 
-![](@attachment/.png)
+![pattern 3](pattern3.png)
