@@ -1,5 +1,7 @@
 # Write a Python program to construct the following patterns, using a nested forloop.
 
+Solution :pattern.py
+
 ##  Sample input :
 `Enter the number of lines: 5`
 
