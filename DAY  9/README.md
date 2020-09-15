@@ -10,8 +10,8 @@ Solution :Q2.py
 Solution :Q3.py
 
 ## Sample IO:
-Enter the StringTextBook<br /> 
-First half is Text
+Enter the String: TextBook<br>
+First half is  Text
 
 # Write a program that replaces all occurances of a particular character  in a string  with another character. 
 Solution :Q4.py
