@@ -1,0 +1,4 @@
+Write a program to check if the letter 'm' is present in the word'Malayalam'.(Q1.py)
+Write a program to find the position of the letter 'y' in "malayalam"(Q2.py)
+Given a string of even length, return the first half. So the string "TextBook" yields "Text".(Q3.py)
+Write a program that replaces all occurances of a particular character  in a string  with another characterEg: Replace 'a' s in  malayalam with @:   will give m@l@y@l@m(Q4.py)(Q4.py)
