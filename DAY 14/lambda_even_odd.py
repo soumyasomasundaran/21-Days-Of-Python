@@ -1,3 +1,2 @@
-# lambda_expr ::=  "lambda" [parameter_list] ":" expression
-evenodd = lambda x: 'even' if x % 2 == 0 else 'odd'
-print(evenodd(10))
+even_odd = lambda n: 'Even' if n % 2 == 0 else 'Odd'
+print(even_odd(78))
